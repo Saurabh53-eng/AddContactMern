@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "c1eacfe6-074d-41c7-8e96-54f290159ec9",
+      "name": "SAURABH MAROTRAO BAND",
+      "email": "bandsaurabh61@gmail.com"
+    },
+    {
+      "id": "22b4384b-2c2e-493c-a506-a1d13635e2a1",
+      "name": "CHHAGAN DESHMUKH sir",
+      "email": "bandsaurabh61@gmail.com"
+    },
+    {
+      "id": "b2b4b92c-b40e-4b44-ac99-f93e45eaa653",
+      "name": "monday",
+      "email": "monday@gmail.com"
+    },
+    {
+      "id": "47465221-82ca-4cdc-a73e-235961f68261",
+      "name": "Saurabh",
+      "email": "bandsaurabh61@gmail.com"
+    },
+    {
+      "id": "181624e4-bc47-4bfc-870d-10229493c79d",
+      "name": "Saurabh",
+      "email": "bandsaurabh61@gmail.com"
+    },
+    {
+      "id": "79234931-3cec-4e22-bbc1-03895a22b527",
+      "name": "Saurabh",
+      "email": "ch91@gmail.com"
+    },
+    {
+      "id": "7ba76a4b-e5bb-4158-81e7-4ed87a57e435",
+      "name": "monday",
+      "email": "bandsaurabh61@gmail.com"
+    },
+    {
+      "id": "2f12e342-d68f-43b2-aa44-1c6ce398d3d1",
+      "name": "dipesh",
+      "email": "dipesh@gmail.com"
+    }
+  ]
+}
